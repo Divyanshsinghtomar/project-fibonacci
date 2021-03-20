@@ -1,6 +1,6 @@
 def fibonacci(x):
     if x<=0:
-        return n
+        return x
     else:
         return(fibonacci(x-1)+fibonacci(x-2))
 n=int(input('enter number you want to show the fibonacci till ')) 
